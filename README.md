@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋, I'm <span style="color:#58a6ff">Adiyti Suman</span>!</h1>
+<h1 align="center">Hey 👋, I'm <span style="color:#58a6ff">Adiyti Suman</span>!</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adiyti-suman/" target="_blank">
@@ -10,10 +10,6 @@
 </p>
 
 ---
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 ### 👩‍💻 About Me
 
@@ -92,24 +88,6 @@ Languages
 </p>
 </p>
 
-</td>
 
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/prakhargurunanis/prakhargurunanis/main/assets/coding.gif" width="100%" />
-
-</td>
-</tr>
-</table>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiyti-suman&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiyti-suman&layout=compact&theme=tokyonight" />
-</p>
