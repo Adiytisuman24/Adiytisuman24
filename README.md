@@ -1,126 +1,75 @@
-.
+<h1 align="left">Hey 👋, I'm <span style="color:#58a6ff">Adiyti Suman</span>!</h1>
 
-👋 Hi, I’m Adiyti Suman
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
-Backend Engineer | Cloud-Native Systems | MLOps & Data Platforms
+---
 
-🚀 About Me
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I’m a backend-focused Software Engineer with a strong foundation in Computer Science, specializing in distributed backend systems, cloud-native architecture, and production MLOps pipelines.
+### 👩‍💻 About Me
 
-My core strength lies in building scalable APIs, event-driven systems, and data platforms, and taking ML models from experimentation to reliable production. I enjoy working close to infrastructure — optimizing performance, reliability, observability, and deployment workflows.
+Hi, I'm **Adiyti Suman**, a **Backend & Cloud-Native Engineer** from India 🇮🇳  
+I enjoy building **scalable backend systems**, **cloud-native platforms**, and **production-grade MLOps pipelines**.
 
-I think in terms of systems, failure modes, and long-term scalability.
+---
 
-🧠 Core Engineering Focus
+### 🧩 Talking about Personal Stuff
 
-Backend & Platform Engineering
+- 🌱 Currently working with **cloud-native backend systems**
+- ⚙️ Exploring **Kubernetes, distributed systems & MLOps**
+- 🤝 Open to collaborating on **backend / platform / MLOps projects**
+- 🧠 Improving **DSA & system design**
+- 📫 Reach me at: **adiytisuman1@gmail.com**
 
-Cloud-Native Architecture (Dockerized, service-oriented systems)
+---
 
-MLOps & ML Production Pipelines
+### 🛠️ Languages & Tools
 
-Data Engineering & Streaming Systems
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
+</p>
 
-Performance, Reliability & Observability
+</td>
 
-🛠️ Technical Skill Set (Backend-First)
-💻 Programming Languages
+<td width="40%" align="center">
 
-Python (primary – backend, data, ML)
+<img src="https://raw.githubusercontent.com/prakhargurunanis/prakhargurunanis/main/assets/coding.gif" width="100%" />
 
-Java (enterprise systems)
+</td>
+</tr>
+</table>
 
-C / C++ (systems & performance fundamentals)
+---
 
-⚙️ Backend & APIs
+### 📊 GitHub Stats
 
-Node.js, Express
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adiyti-suman&show_icons=true&theme=tokyonight" />
+</p>
 
-RESTful & event-driven service design
-
-Authentication, authorization, rate-limiting
-
-API performance optimization & scaling
-
-☁️ Cloud-Native & Infrastructure
-
-Docker (containerization & reproducible environments)
-
-Service-based architecture
-
-Local & cloud deployment workflows
-
-Infrastructure-aware backend development
-
-🤖 MLOps & AI Engineering
-
-Model training & evaluation (TensorFlow, PyTorch)
-
-Production inference services
-
-Model versioning & lifecycle management
-
-Data pipelines for ML systems
-
-Monitoring model behavior & performance
-
-📊 Data Engineering & Streaming
-
-Apache Kafka (event streaming)
-
-MongoDB, MySQL
-
-Data modeling for analytics & ML workloads
-
-Batch & near-real-time data processing
-
-📈 Data Science & ML Foundations
-
-NumPy, Pandas
-
-OpenCV
-
-Feature engineering & experimentation workflows
-
-🧰 Developer & Platform Tools
-
-Git, GitHub
-
-VS Code
-
-Linux-first development mindset
-
-Vercel (for frontend deployment when needed)
-
-🔍 What I’m Currently Focused On
-
-🔭 Designing scalable backend systems and APIs
-
-🌱 Building cloud-native data & ML pipelines
-
-🤖 Advancing MLOps practices: model deployment, monitoring, reproducibility
-
-📊 Strengthening data engineering & analytics foundations
-
-⚙️ Improving system reliability, performance, and observability
-
-👯 Open to collaborating on:
-
-Backend & platform engineering projects
-
-Cloud-native distributed systems
-
-MLOps platforms & ML production pipelines
-
-Data-intensive and event-driven architectures
-
-If the project involves scale, data, or reliability, I’m interested.
-
-🧩 Engineering & Problem Solving
-
-Strong focus on data structures, algorithms, and system design
-
-Emphasis on clean abstractions, performance, and maintainability
-
-Comfortable reasoning about trade-offs, bottlenecks, and failure modes
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiyti-suman&layout=compact&theme=tokyonight" />
+</p>
