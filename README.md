@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Adiytisuman24
-- 😎🚀 I,m skilled at c,c++.python,solidity & html.
+- 😎🚀 I,m skilled at Mern stack,golang, kubernetes,aws,docker and gcp.
 - 👀 I’m interested in creating algorithms,cryptography,software develpment,cloud architect.
-- 🌱 I’m currently studying at BITS PILANI KK GOA CAMPUS.
 - 💞️ I’m looking to collaborate on  algorithms & data structures along with blockchain technology.
 - 📫 How to reach me: @adiytisuman1@gmail.com
 
