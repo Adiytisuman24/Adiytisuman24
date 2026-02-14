@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋, I'm <span style="color:#58a6ff">Adiyti Suman</span>!</h1>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/adiyti-suman/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
