@@ -82,10 +82,6 @@ Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </p>
-
-<p>
-  🧠 <strong>LLMs:</strong> Model inference, API integration, production serving, prompt pipelines
-</p>
 </p>
 
 
