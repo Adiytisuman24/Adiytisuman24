@@ -1,10 +1,10 @@
 <h1 align="left">Hey 👋, I'm <span style="color:#58a6ff">Adiyti Suman</span>!</h1>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/adiyti-suman/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://twitter.com/adiytisuma86390" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
   </a>
 </p>
@@ -17,7 +17,7 @@
 
 ### 👩‍💻 About Me
 
-Hi, I'm **Adiyti Suman**, a **Backend & Cloud-Native Engineer** from India 🇮🇳  
+Hi, I'm **Adiyti Suman**, a **Backend & Cloud-Native Engineer** from Mumbai  
 I enjoy building **scalable backend systems**, **cloud-native platforms**, and **production-grade MLOps pipelines**.
 
 ---
@@ -50,6 +50,12 @@ I enjoy building **scalable backend systems**, **cloud-native platforms**, and *
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 </p>
 
 </td>
