@@ -13,7 +13,7 @@
 
 ### 👩‍💻 About Me
 
-Hi, I'm **Adiyti Suman**, a **Backend & Cloud-Native Engineer** from Mumbai  
+Hi, I'm **Adiyti Suman**, a **Backend & Cloud-Native Engineer** from Bengaluru  
 I enjoy building **scalable backend systems**, **cloud-native platforms**, and **production-grade MLOps pipelines**.
 
 ---
