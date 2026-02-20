@@ -22,7 +22,7 @@ I enjoy building **scalable backend systems**, **cloud-native platforms**, and *
 
 - 🌱 Currently working with **cloud-native backend systems**
 - ⚙️ Exploring **AI & MLOps with bloackchain**
-- 🤝 Open to collaborating on **backend / platform / MLOps projects**
+- 🤝 Open to collaborating on **backend dev / platform / MLOps projects**
 - 🧠 Improving **DSA & system design**
 - 📫 Reach me at: **adiytisuman1@gmail.com**
 
