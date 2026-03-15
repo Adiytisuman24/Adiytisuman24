@@ -19,7 +19,7 @@
 ### 🏆 Problem Solving Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adiytisuman24&theme=github-dark"/>
 </p>
 ---
 
@@ -36,12 +36,6 @@
 <p align="center">
   <a href="https://codeforces.com/profile/Suman0001">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Suman0001&theme=dark"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.codechef.com/users/adiytisuman">
-    <img src="https://codechef-readme-stats.vercel.app/api/profile/adiytisuman?theme=dark"/>
   </a>
 </p>
 ### 👩‍💻 About Me
