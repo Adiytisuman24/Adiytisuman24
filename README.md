@@ -25,6 +25,10 @@
 
 ### 🧠 Competitive Programming
 
+---
+
+### 🧠 Competitive Programming
+
 <p align="center">
   <a href="https://leetcode.com/u/bAcgf39nyT/">
     <img src="https://leetcard.jacoblin.cool/bAcgf39nyT?theme=dark&font=baloo&ext=heatmap"/>
@@ -34,6 +38,12 @@
 <p align="center">
   <a href="https://codeforces.com/profile/Suman0001">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Suman0001&theme=dark"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/adiytisuman">
+    <img src="https://codechef-readme-stats.vercel.app/api/profile/adiytisuman"/>
   </a>
 </p>
 ### 👩‍💻 About Me
