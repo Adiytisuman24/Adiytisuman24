@@ -13,7 +13,21 @@
   <img src="https://img.shields.io/badge/CodeChef-3⭐-brown"/>
 </p>
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1"/>
+</p>
+### 🏆 Problem Solving Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://codechef-readme-stats.vercel.app/api/profile/YOUR_CODECHEF_USERNAME"/>
+</p>
 ### 👩‍💻 About Me
 
 Hi, I'm **Adiyti Suman**, a **Backend & Cloud-Native Engineer** from Bengaluru  
