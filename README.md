@@ -21,12 +21,20 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark"/>
 </p>
+---
+
+### 🧠 Competitive Programming
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark"/>
+  <a href="https://leetcode.com/u/bAcgf39nyT/">
+    <img src="https://leetcard.jacoblin.cool/bAcgf39nyT?theme=dark&font=baloo&ext=heatmap"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api/profile/YOUR_CODECHEF_USERNAME"/>
+  <a href="https://codeforces.com/profile/Suman0001">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Suman0001&theme=dark"/>
+  </a>
 </p>
 ### 👩‍💻 About Me
 
