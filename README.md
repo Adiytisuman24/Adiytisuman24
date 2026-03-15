@@ -12,13 +12,13 @@
   <img src="https://img.shields.io/badge/LeetCode-Top%2010%25-orange"/>
   <img src="https://img.shields.io/badge/CodeChef-3⭐-brown"/>
 </p>
----
+
  🏆 Problem Solving Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adiytisuman24&theme=github-dark"/>
 </p>
----
+
 
 ### 🧠 Competitive Programming
 
