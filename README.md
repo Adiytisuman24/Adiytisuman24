@@ -25,9 +25,7 @@
 
 ### 🧠 Competitive Programming
 
----
 
-### 🧠 Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/bAcgf39nyT/">
@@ -43,7 +41,7 @@
 
 <p align="center">
   <a href="https://www.codechef.com/users/adiytisuman">
-    <img src="https://codechef-readme-stats.vercel.app/api/profile/adiytisuman"/>
+    <img src="https://codechef-readme-stats.vercel.app/api/profile/adiytisuman?theme=dark"/>
   </a>
 </p>
 ### 👩‍💻 About Me
