@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/CodeChef-3⭐-brown"/>
 </p>
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adiytisuman24&theme=algolia&no-frame=true&row=1"/>
-</p>
 ### 🏆 Problem Solving Stats
 
 <p align="center">
