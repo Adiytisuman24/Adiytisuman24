@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/CodeChef-3⭐-brown"/>
 </p>
 ---
-### 🏆 Problem Solving Stats
+ 🏆 Problem Solving Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adiytisuman24&theme=github-dark"/>
