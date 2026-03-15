@@ -14,7 +14,7 @@
 </p>
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Adiytisuman24&theme=algolia&no-frame=true&row=1"/>
 </p>
 ### 🏆 Problem Solving Stats
 
