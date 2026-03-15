@@ -8,7 +8,10 @@
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
   </a>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Top%2010%25-orange"/>
+  <img src="https://img.shields.io/badge/CodeChef-3⭐-brown"/>
+</p>
 ---
 
 ### 👩‍💻 About Me
